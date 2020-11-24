@@ -4,7 +4,7 @@ bio:                'A cosy vintage bar stocked with retro items'
 description:        "A cosy vintage bar stocked with retro items"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/frank_logo.png'
+logo:               'assets/img/frank_logo.jpg'
 background:         'assets/img/frank.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
